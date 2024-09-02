@@ -1,0 +1,12 @@
+{
+	"splash": {
+		"count": 0
+	},
+	"banner": {
+		"count": 4,
+		"banner1": "x7banner.png",
+		"banner2": "x8banner.png",
+		"banner3": "x9banner.png",
+		"banner4": "x10banner.png"
+	}
+}
